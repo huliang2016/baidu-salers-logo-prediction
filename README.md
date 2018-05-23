@@ -2,7 +2,6 @@
 ---
 
 #### Basic info
-* concat predict result with resnet152_v2, resnet50_v2, densenet161, inceptionv3 models, we can achieve 0.989 online score
 * This project is based on gluon or a more famous parent: mxnet.
 
 #### Project code structure
