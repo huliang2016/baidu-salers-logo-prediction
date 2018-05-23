@@ -1,3 +1,7 @@
+.idea/
+
+result_ana.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
